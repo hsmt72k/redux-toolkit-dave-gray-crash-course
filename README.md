@@ -2,10 +2,8 @@
 
 Redux ToolkitとRTK Queryを使ってModern Reduxを学ぶ、初心者向けのチュートリアルシリーズです。
 
-<p style="color: red;">
-※ 動画リンクはクリックしても別タブで開きません。
-別タブで開きたい場合は、Ctrl（Command）キーを押しながらリンクをクリックしてください
-</p>
+> 動画リンクはクリックしても別タブで開きません。
+> 別タブで開きたい場合は、Ctrl（Command）キーを押しながらリンクをクリックしてください
 
 React の基礎をまだ学んでいない方は、
 Redux Toolkit の前に以下の動画シリーズで React の基礎をひと通り学びましょう。
@@ -13,7 +11,7 @@ Redux Toolkit の前に以下の動画シリーズで React の基礎をひと�
 React Tutorials:  
 https://github.com/hsmt72k/react-basics-dave-gray-crash-course
 
-## CHAPTERS
+## CHAPTERS: React Redux Toolkit Tutorials
 
 React Redux Toolkit Tutorial series playlist:  
 https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo
